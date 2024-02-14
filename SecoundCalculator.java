@@ -4,7 +4,7 @@ public class SecoundCalculator {
 
 	public static void main(String[] args) 
 	{
-			System.out.println("         SMART CALCULATOR 1 45 hgy    ");
+			System.out.println("         SMART CALCULATOR 1 45 hgy  ght  ");
 			System.out.println("...........................................");
 			System.out.println();
 			System.out.println("1. ADDITION.");
