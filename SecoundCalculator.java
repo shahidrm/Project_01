@@ -8,7 +8,7 @@ public class SecoundCalculator {
 			System.out.println("...........................................");
 			System.out.println();
 			System.out.println("1. ADD.");
-			System.out.println("2. SUBSTRACTION.");
+			System.out.println("2. SUB.");
 			System.out.println("3. MULTIPLICATION.");
 			System.out.println("4. DIVISION.");
 
