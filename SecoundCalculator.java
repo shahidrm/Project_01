@@ -7,7 +7,7 @@ public class SecoundCalculator {
 			System.out.println("         SMART CALCULATOR 1 45 hgy  ght vbfg ghft nmhy");
 			System.out.println("...........................................");
 			System.out.println();
-			System.out.println("1. ADD.");
+			System.out.println("1. ADDition.");
 			System.out.println("2. SUBSTRACTION.");
 			System.out.println("3. MULTIPLICATION.");
 			System.out.println("4. DIVISION.");
